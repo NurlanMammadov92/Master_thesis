@@ -10,5 +10,5 @@ All the programming of the models, analyses are implemented on programming langu
 
 
 ## References
-[Paye, B. S. (2012). ‘Déjà vol’: Predictive regressions for aggregate stock market volatility using
+The paper by Dr. B.Paye: [Paye, B. S. (2012). ‘Déjà vol’: Predictive regressions for aggregate stock market volatility using
 macroeconomic variables. Journal of Financial Economics, 106(3):527–546.](https://www.sciencedirect.com/science/article/pii/S0304405X12001316)
